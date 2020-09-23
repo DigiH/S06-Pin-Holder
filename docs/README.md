@@ -1,7 +1,7 @@
 # S06-Pin-Holder
 STL files for 3D printing Dupont cable pin holder for flashing (AVATTO, BAKEEY and other compatible) S06 IR blaster Wifi bridges with alternative **[openMQTTGateway](https://github.com/1technophile/OpenMQTTGateway)** firmware, without having to solder.
 
-Best to print with 0.25 nozzle, if using larger nozzle size in your printing software the dividers probably won't be printed for the middle 3 Dupont cable pins, but still works fine to hold them.
+Best to print with 0.25 nozzle. If you're using a larger nozzle size setting in your printing software the dividers probably won't be printed for the middle 3 Dupont cable pins, but it still works fine to hold them.
 
 ![Parts](./images/img01.jpg)
 
