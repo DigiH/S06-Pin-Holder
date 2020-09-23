@@ -3,7 +3,7 @@ STL files for 3D printing Dupont cable pin holder for flashing (AVATTO, BAKEEY a
 
 ![Parts] (docs/images/img01.jpg)
 
-![Parts](/img/img01.jpg)
+![Parts](./images/img01.jpg)
 
 ./img/img02.jpg
 
